@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=jeongwonjun&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=jwj9127&fontSize=60)
 
 <br>
 👋 Welcome my Github profile !
