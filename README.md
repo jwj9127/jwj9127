@@ -7,7 +7,7 @@
 <br><br><br>
 
 **Velog**<br>
-[<img src="https://img.shields.io/badge/Velog-20C997? style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@jwj9127/posts"/>](https://velog.io/@jwj9127/posts))
+[<img src="https://img.shields.io/badge/Velog-20C997? style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@jwj9127/posts"/>](https://velog.io/@jwj9127/posts)
 <br><br>
 
 **Tech Stack**
