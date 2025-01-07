@@ -1,4 +1,4 @@
-<div align=center>
+![image](https://github.com/user-attachments/assets/460a1f81-35b4-473b-afba-30398d92a951)<div align=center>
   
 <br>
 👋 공부가 재밌는 개발자 ~~
@@ -17,7 +17,7 @@
 - 🦁 멋쟁이사자차럼 12기 운영진(교육팀) | **BE**
 - ☁️ 구름톤 유니브 3기 미르미 | **BE**
 - 📢 청소년 SW동행 프로젝트 멘토
-- ![image](https://www.googletagmanager.com/gtm.js?id=GTM-K2ZWHWT) 구름톤 딥다이브 풀스택 11회차 | **BE**
+- <img src="https://github.com/user-attachments/assets/741f3e66-b864-468e-956b-e17e026b27d6" width="300" /> 구름톤 딥다이브 풀스택 11회차 | **BE**
 
 ## 💻 Project
 
