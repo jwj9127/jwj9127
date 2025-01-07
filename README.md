@@ -1,7 +1,10 @@
 <div align=center>
+  
 <br>
 👋 공부가 재밌는 개발자 ~~
 <br><br><br>
+
+</div>
 
 ## 💭 Activity
 
@@ -14,7 +17,7 @@
 - 🦁 멋쟁이사자차럼 12기 운영진(교육팀) | **BE**
 - ☁️ 구름톤 유니브 3기 미르미 | **BE**
 - 📢 청소년 SW동행 프로젝트 멘토
-- ![image](https://github.com/user-attachments/assets/94cd5485-a33f-4469-9a9b-2d81d02916f9) 구름톤 딥다이브 풀스택 11회차 | **BE**
+- ![image](https://www.googletagmanager.com/gtm.js?id=GTM-K2ZWHWT) 구름톤 딥다이브 풀스택 11회차 | **BE**
 
 ## 💻 Project
 
@@ -42,15 +45,12 @@
 <img src="https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=Npm&logoColor=white"> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"> <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="styledcomponents" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white">
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <br>
 
 <img src="https://img.shields.io/badge/Github-181717? style=flat-square&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) <img src="https://img.shields.io/badge/Discord-5865F2? style=flat-square&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000? style=flat-square&logo=notion&logoColor=white"/>
 
 </div>
 
-**Velog**<br>
 [<img src="https://img.shields.io/badge/Velog-20C997? style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@jwj9127/posts"/>](https://velog.io/@jwj9127/posts)
-<br><br>
-
-</div>
+<br>
