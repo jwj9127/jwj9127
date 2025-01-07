@@ -17,7 +17,7 @@
 - 🦁 멋쟁이사자차럼 12기 운영진(교육팀) | **BE**
 - ☁️ 구름톤 유니브 3기 미르미 | **BE**
 - 📢 청소년 SW동행 프로젝트 멘토
-- <img src="https://github.com/user-attachments/assets/741f3e66-b864-468e-956b-e17e026b27d6" width="15" /> 구름톤 딥다이브 풀스택 11회차 | **BE**
+- <img src="https://github.com/user-attachments/assets/741f3e66-b864-468e-956b-e17e026b27d6" width="20" /> 구름톤 딥다이브 풀스택 11회차 | **BE**
 
 ## 💻 Project
 
