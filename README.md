@@ -25,7 +25,7 @@
 
 - <a href="https://github.com/jwj9127/GoJiSik_FE">2023 멋쟁이사자처럼 중앙 해커톤</a> | **GoJiSik** [React]
 - <a href="https://github.com/jwj9127/BookJSP">인터넷프로그래밍 팀 프로젝트</a> | **청년책방** [HTML+CSS+JSP]
-- <a href="https://github.com/jwj9127/front-end-last">졸업작품 프로젝트</a> | **MATE** [React]
+- <a href="https://github.com/jwj9127/front-end-last">졸업작품 프로젝트</a> | **CONTESTMATE** [React]
 
 #### 2024
 
