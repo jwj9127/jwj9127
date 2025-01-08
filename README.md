@@ -30,7 +30,7 @@
 #### 2024
 
 - <a href="https://github.com/jwj9127/likelion12th-trendition-Front">2024 트렌디톤 : TRENDITHON</a> | **SIXPEC** [React] | **🏆 우수상**
-- <a href="https://github.com/jwj9127/Front-End">2024 멋쟁이사자처럼 중앙 해커톤</a> | **healax** [React]
+- <a href="https://github.com/jwj9127/Front-End">SW융합클러스터 2.0 디지털 콘텐츠 세종 DX 해커톤 & 2024 멋쟁이사자처럼 중앙 해커톤</a> | **healax** [React] | **🏆SW융합클러스터 인재상**
 - <a href="https://github.com/jwj9127/Front-End">NSU 소프트웨어 AI 경진대회</a> | **healax** [Next.js] | **리팩토링**
 
 ## ⚙️ Skill
