@@ -33,6 +33,12 @@
 - <a href="https://github.com/jwj9127/Front-End">SW융합클러스터 2.0 디지털 콘텐츠 세종 DX 해커톤 & 2024 멋쟁이사자처럼 중앙 해커톤</a> | **healax** [React] | **🏆SW융합클러스터 인재상**
 - <a href="https://github.com/jwj9127/Front-End">NSU 소프트웨어 AI 경진대회</a> | **healax** [Next.js] | **리팩토링**
 
+#### 2025
+
+- <a href="https://github.com/jwj9127/BE"> KDT - Web IDE 프로젝트</a> | **codable** [AWS + CI/CD] | 백엔드
+- <a href="https://github.com/jwj9127/IDE_FE"> KDT - Web IDE 프로젝트</a> | **codable** [React] | 프론트
+- <a href="https://github.com/jwj9127/KDT_BE"> KDT - 기업 연계 프로젝트</a> | **모아북** [SpringBoot]
+
 ## ⚙️ Skill
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwj9127&exclude_repo=20210844_20210862&layout=donut&title_color=695A5A&text_color=695A5A&icon_color=E38193&bg_color=ffffff&hide_border=false" alt="Top Langs"  width=380 />
@@ -56,3 +62,6 @@
 
 [<img src="https://img.shields.io/badge/Velog-20C997? style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@jwj9127/posts"/>](https://velog.io/@jwj9127/posts)
 <br>
+
+## 🏆 Trophy 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jwj9127)](https://github.com/ryo-ma/github-profile-trophy)
